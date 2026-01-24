@@ -1,0 +1,13 @@
+=== Hasil Penjadwalan FCFS ===
+
+ID	AT	BT	CT	TAT	WT
+P1	0	24	24	24	0
+P2	1	3	27	26	23
+P3	2	6	33	31	25
+P4	3	6	39	36	30
+
+Rata-rata Waiting Time: 19.50
+Rata-rata Turnaround Time: 29.25
+
+Gantt Chart:
+| P1 (0-24) | P2 (24-27) | P3 (27-33) | P4 (33-39) |

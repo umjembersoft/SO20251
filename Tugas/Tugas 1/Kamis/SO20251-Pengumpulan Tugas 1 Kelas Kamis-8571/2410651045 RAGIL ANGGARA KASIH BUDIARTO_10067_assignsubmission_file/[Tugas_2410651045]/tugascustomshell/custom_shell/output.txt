@@ -1,0 +1,2 @@
+contoh.txt
+output.txt

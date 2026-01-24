@@ -1,0 +1,4 @@
+total 24
+-rw-r--r-- 1 agilnggara agilnggara     0 Oct 16 18:56 contoh.txt
+-rwxr-xr-x 1 agilnggara agilnggara 17064 Oct 16 18:55 custom_shell
+-rw-r--r-- 1 agilnggara agilnggara  3252 Oct 16 18:54 custom_shell.c

@@ -1,0 +1,16 @@
+=== Hasil Penjadwalan SJF ===
+
+ID	AT	BT	CT	TAT	WT
+
+Gantt Chart:
+| P1 (0-8) | P5 (8-11) | P2 (11-15) | P4 (15-20) | P3 (20-29) |
+
+ID	AT	BT	CT	TAT	WT
+P1	0	8	8	8	0
+P2	2	4	15	13	9
+P3	4	9	29	25	16
+P4	6	5	20	14	9
+P5	8	3	11	3	0
+
+Rata-rata Waiting Time: 6.80
+Rata-rata Turnaround Time: 12.60
